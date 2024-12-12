@@ -440,7 +440,7 @@ html {
 
 	.home__layer {
 		position: absolute;
-		font-size: 90px;
+		font-size: 70px;
 		color: var(--primary-color);
 	}
 
@@ -450,53 +450,53 @@ html {
 	}
 
 	.home__layer--2 {
-		top: 25%;
-		left: 80%;
+		top: 15%;
+		left: 20%;
 	}
 
 	.home__layer--3 {
-		top: 65%;
-		left: 90%;
+		top: 75%;
+		left: 5%;
 	}
 
 	.home__layer--4 {
-		top: 15%;
-		left: 70%;
+		top: 75%;
+		left: 20%;
 	}
 
 	.home__layer--5 {
-		top: 20%;
-		left: 50%;
-	}
-
-	.home__layer--6 {
 		top: 40%;
-		left: 55%;
-	}
-
-	.home__layer--7 {
-		top: 75%;
-		left: 40%;
-	}
-
-	.home__layer--8 {
-		top: 50%;
 		left: 12%;
 	}
 
+	.home__layer--6 {
+		top: 15%;
+		left: 80%;
+	}
+
+	.home__layer--7 {
+		top: 15%;
+		left: 95%;
+	}
+
+	.home__layer--8 {
+		top: 75%;
+		left: 80%;
+	}
+
 	.home__layer--9 {
-		top: 40%;
-		left: 3%;
+		top: 75%;
+		left: 95%;
 	}
 
 	.home__layer--10 {
-		top: 70%;
-		left: 7%;
+		top: 40%;
+		left: 87%;
 	}
 
 	.home__layer--11 {
 		top: 10%;
-		left: 20%;
+		left: 50%;
 	}
 
 	.home__container {
